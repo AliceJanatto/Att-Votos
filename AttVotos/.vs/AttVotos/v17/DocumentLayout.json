@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Desktop\\Att Votos\\AttVotos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C533797-DC5F-48A7-AB4A-1E86AC580FAA}|AttVotos\\AttVotos.csproj|c:\\users\\senai3em\\desktop\\att votos\\attvotos\\attvotos\\voto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C533797-DC5F-48A7-AB4A-1E86AC580FAA}|AttVotos\\AttVotos.csproj|solutionrelative:attvotos\\voto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5E6C26-EB59-42F5-9813-334A213F9D62}|VotarTest\\VotarTest.csproj|c:\\users\\senai3em\\desktop\\att votos\\attvotos\\votartest\\votar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E6C26-EB59-42F5-9813-334A213F9D62}|VotarTest\\VotarTest.csproj|solutionrelative:votartest\\votar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Votar.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Att Votos\\AttVotos\\VotarTest\\Votar.cs",
+              "RelativeDocumentMoniker": "VotarTest\\Votar.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Att Votos\\AttVotos\\VotarTest\\Votar.cs",
+              "RelativeToolTip": "VotarTest\\Votar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:50:08.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Voto.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Att Votos\\AttVotos\\AttVotos\\Voto.cs",
+              "RelativeDocumentMoniker": "AttVotos\\Voto.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Att Votos\\AttVotos\\AttVotos\\Voto.cs",
+              "RelativeToolTip": "AttVotos\\Voto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:42:46.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

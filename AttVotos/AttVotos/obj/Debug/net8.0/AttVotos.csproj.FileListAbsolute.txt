@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\Att Votos\AttVotos\AttVotos\bin\Debug\net8.0\AttVotos.deps.json
+C:\Users\SENAI3EM\Desktop\Att Votos\AttVotos\AttVotos\bin\Debug\net8.0\AttVotos.dll
+C:\Users\SENAI3EM\Desktop\Att Votos\AttVotos\AttVotos\bin\Debug\net8.0\AttVotos.pdb
+C:\Users\SENAI3EM\Desktop\Att Votos\AttVotos\AttVotos\obj\Debug\net8.0\AttVotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\Att Votos\AttVotos\AttVotos\obj\Debug\net8.0\AttVotos.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\Att Votos\AttVotos\AttVotos\obj\Debug\net8.0\AttVotos.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\Att Votos\AttVotos\AttVotos\obj\Debug\net8.0\AttVotos.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\Att Votos\AttVotos\AttVotos\obj\Debug\net8.0\AttVotos.dll
+C:\Users\SENAI3EM\Desktop\Att Votos\AttVotos\AttVotos\obj\Debug\net8.0\refint\AttVotos.dll
+C:\Users\SENAI3EM\Desktop\Att Votos\AttVotos\AttVotos\obj\Debug\net8.0\AttVotos.pdb
+C:\Users\SENAI3EM\Desktop\Att Votos\AttVotos\AttVotos\obj\Debug\net8.0\ref\AttVotos.dll
